@@ -8,16 +8,16 @@ A simple User Management Microservice built with **Spring Boot**, featuring:
 
 ---
 
-## ✨ Features
-✅ Register new users (`/register`)  
-✅ Login and get JWT token (`/login`)  
-✅ View users (Admin only)  
-✅ View user by ID (Admin or User)  
-✅ Delete user by ID (Admin only)
+##Features
+Register new users (`/register`)  
+Login and get JWT token (`/login`)  
+View users (Admin only)  
+View user by ID (Admin or User)  
+Delete user by ID (Admin only)
 
 ---
 
-## 🛠 Tech Stack
+##Tech Stack
 - Java 17
 - Spring Boot
 - Spring Security
@@ -29,7 +29,7 @@ A simple User Management Microservice built with **Spring Boot**, featuring:
 
 ---
 
-## 📦 How to Run
+##How to Run
 
 ```bash
 git clone https://github.com/yourusername/user-management-service.git
